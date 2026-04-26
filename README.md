@@ -1,6 +1,6 @@
 # LAS-Net Lymphoma PET/CT Segmentation Docker
 
-This Docker image runs automated Hodgkin lymphoma segmentation on baseline & interim PET/CT scans using our proposed Longitudinally-Aware Segmentation Network (LAS-Net). The paper was published in Radiology: Aritificial Intelligence (2025)
+This Docker image runs automated Hodgkin lymphoma segmentation on baseline & interim PET/CT scans using our proposed Longitudinally-Aware Segmentation Network (LAS-Net). The paper was published in *Radiology: Aritificial Intelligence* (2025)
 <p align="center">
   <img src="./images/visual_abstract.jpeg" alt="Visual Abstract">
 </p>
