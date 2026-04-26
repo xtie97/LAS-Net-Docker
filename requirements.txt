@@ -1,0 +1,14 @@
+monai
+nibabel
+itk>=5.2
+pynrrd
+pydicom
+dicom2nifti
+pillow!=8.3.0
+SimpleITK
+connected-components-3d
+scikit-image
+scipy
+einops
+rt_utils
+opencv-python-headless==4.10.0.84
