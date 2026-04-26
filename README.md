@@ -257,7 +257,7 @@ to:
 
 ---
 
-## 8. Notes for interpretation
+## 8. Additional Info
 
 - Baseline PET and interim PET images are expected to be in SUV units when NIfTI input is used.
 - When NIfTI input is used, baseline and interim PET images are expected to be provided in SUV units.
